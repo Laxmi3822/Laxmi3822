@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm N. Laxmi Prasanna 👋
 
-<!--
-**Laxmi3822/Laxmi3822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student in Artificial Intelligence & Data Science
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* Java
+* SQL
+* Machine Learning
+* Data Science
+* Data Analytics
+* Generative AI
+* HTML
+* CSS
+* JavaScript
+* Node.js
+* Express.js
+* Flask
+
+## Projects
+
+* Discover Madanapalle
+* Student Score Predictor
+* Disease Prediction System
+* Automatic Engine Locking System
+
+## Achievements
+
+* Hackathon Participant at MITS Madanapalle
+* Developed Discover Madanapalle Web Platform
+* Completed AI, ML, Data Science, Data Analytics, Python, and Full Stack Development Certifications
+
+## Currently Learning
+
+* Generative AI
+* Data Analytics
+* Software Development
+* Node.js & Express.js
+
+## Connect With Me
+
+* LinkedIn: linkedin.com/in/laxmi-prasanna-narapareddy-062656332
+* GitHub: github.com/Laxmi3822
+* Email: [luckynarpareddy@gmail.com](mailto:luckynarpareddy@gmail.com)
